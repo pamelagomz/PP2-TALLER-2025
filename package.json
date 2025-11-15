@@ -1,0 +1,23 @@
+{
+  "name": "pp2-taller-2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pamelagomz/PP2-TALLER-2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pamelagomz/PP2-TALLER-2025/issues"
+  },
+  "homepage": "https://github.com/pamelagomz/PP2-TALLER-2025#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1"
+  }
+}
